@@ -14,6 +14,6 @@ Attached is a mobile application for Android. It is for a coffee company that in
 
 Attached is a graphic design of a coffee cup. It is easy to think that little goes into creating a design such as this; however, there are many algorithms code strings necessary to make each and every angle. Therefore, was seems like a simple design is quite detailed and can take many pages of code to make a visual reality. 
 
-### Database
+## Database
 
 The database attached here is a that of a mock company to store customer records and purchases. Once created the system will allow to recall all of this data based on quiries in terminal. The data recalled can be narrowed down to get only relevant results. There are pages of code that link together to make this possible, including areas to store the data that input into the system. 
