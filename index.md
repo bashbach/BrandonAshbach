@@ -8,28 +8,12 @@ In this portfolio I will introduce you to three different artifacts that I have 
 
 ## Software Design and Engineering
 
+Attached is a mobile application for Android. It is for a coffee company that includes separate pages for a home screen, photo library, maps, social media and an embedded database to store customer records, as well as menu items. This was created with Java in the Andriod Studio. 
 
+## Algorithms and Data Structures
 
-## Header 2
-### Header 3
+Attached is a graphic design of a coffee cup. It is easy to think that little goes into creating a design such as this; however, there are many algorithms code strings necessary to make each and every angle. Therefore, was seems like a simple design is quite detailed and can take many pages of code to make a visual reality. 
 
-- Bulleted
-- List
+### Database
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bashbach/BrandonAshbach/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+The database attached here is a that of a mock company to store customer records and purchases. Once created the system will allow to recall all of this data based on quiries in terminal. The data recalled can be narrowed down to get only relevant results. There are pages of code that link together to make this possible, including areas to store the data that input into the system. 
