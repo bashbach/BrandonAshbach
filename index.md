@@ -1,8 +1,8 @@
 ## Brandon Ashbach ePortfolio
 
-You can use the [editor on GitHub](https://github.com/bashbach/BrandonAshbach/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Four years ago I started my college academic career in the Computer Science field. While I believed my proficiency in the tech field was admirable, my degree program would prove there was much more to learn. These last four years have introduced me to new computer languages, ways to funuction in a successful team of tech professionals and refined my skillset in the areas of software design and engineering, algorithms and data structures, and databases. The final test is showcasing those skills to provide a better undertanding of what I can bring to a team. Every course has reinforced the idea of working in a team setting and outlining the responsibiites of each team member to work towards a common goal. For example, I was able to work in an Agile system for every role in a simulated classroom environment. This allowed me to work with stakeholders, work as the devloper, tester and team manager. I have created many programs that span across databases, sofware engineering and even graphic design. Furthermore, this was not limited to software as I created a weather station using a Raspberry Pi and several periphial devices. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In this portfolio I will introduce you to three different artifacts that I have created in my academic career. These three were carefully chosen to demostrate my body of work and showcase the technical abilities I can bring to the table. These three arifacts will showcase software design and engineering, algorithms and data structures, and databases. For software design and engineering I have included an application I created for an Android mobile device. For algorithms, I have inlcuded a coded coffee cup. Lastly, I have included an database for a mock company to store customers' records and purchases. 
 
 ### Markdown
 
