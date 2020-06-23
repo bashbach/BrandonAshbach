@@ -4,14 +4,12 @@ Four years ago I started my college academic career in the Computer Science fiel
 
 In this portfolio I will introduce you to three different artifacts that I have created in my academic career. These three were carefully chosen to demostrate my body of work and showcase the technical abilities I can bring to the table. These three arifacts will showcase software design and engineering, algorithms and data structures, and databases. For software design and engineering I have included an application I created for an Android mobile device. For algorithms, I have inlcuded a coded coffee cup. Lastly, I have included an database for a mock company to store customers' records and purchases. 
 
-### Markdown
+### Artifacts 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Software Design and Engineering
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
+
 ## Header 2
 ### Header 3
 
